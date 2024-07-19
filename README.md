@@ -1,4 +1,4 @@
 # OptiCoin_CryptoCoin_SmartContract
 
 ## Smart Contract URL
-https://sepolia.etherscan.io/address/0x7f6F0a67a945f43F0f93CEdbF0f5DDEe337a12ff#code
+https://sepolia.etherscan.io/address/0x2500dba2b912c60b1c72bee1d268819b236f49e0#readContract
